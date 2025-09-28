@@ -7,25 +7,25 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
-# -------------------------
-# 1. Paths & model
-# -------------------------
-DATA_CSV   = "data/raw/data.csv"     # <--- updated dataset path
+
+# Paths 
+
+DATA_CSV   = "data/raw/data.csv"    
 OUT_DIR    = "data/processed"
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"  # 384-dim SBERT
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"  
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# -------------------------
-# 2. Load dataset
-# -------------------------
+
+#  Loading dataset
+
 df = pd.read_csv(DATA_CSV)
 assert "sticker_tags" in df.columns, "CSV must have a 'sticker_tags' column."
 print(f"Loaded: {DATA_CSV}  rows={len(df)}")
 
-# -------------------------
-# 3. Clean & parse tags
-# -------------------------
+
+# Clean & parse tags
+
 def clean_tags(s: str):
     if not isinstance(s, str):
         return []
@@ -36,21 +36,20 @@ def clean_tags(s: str):
 
 tag_lists = df["sticker_tags"].fillna("").apply(clean_tags)
 
-# -------------------------
-# 4. Unique vocab
-# -------------------------
+
+# Unique vocab
+
 unique_tags = sorted({t for tags in tag_lists for t in tags})
 print(f"Unique sticker tags: {len(unique_tags)} → {unique_tags[:10]}")
 
-# -------------------------
-# 5. Load SBERT
-# -------------------------
+
+#  Load SBERT
+
 print(f"Loading SBERT: {MODEL_NAME}")
 model = SentenceTransformer(MODEL_NAME)
 
-# -------------------------
-# 6. Encode all tags
-# -------------------------
+#  Encode all tags
+
 if unique_tags:
     tag_matrix = model.encode(unique_tags, batch_size=64, convert_to_numpy=True,
                               show_progress_bar=True, normalize_embeddings=False)
@@ -59,9 +58,8 @@ else:
 
 tag2vec = {tag: tag_matrix[i] for i, tag in enumerate(unique_tags)}
 
-# -------------------------
-# 7. Row-level vectors
-# -------------------------
+#  Row-level vectors
+
 EMB_DIM = 384
 def row_vector(tags):
     if not tags:
@@ -77,9 +75,9 @@ rows = [row_vector(tags) for tags in tqdm(tag_lists, desc="Building row vectors"
 X_sticker_bert = np.vstack(rows).astype(np.float32)
 print("Sticker SBERT features shape:", X_sticker_bert.shape)
 
-# -------------------------
-# 8. Save outputs
-# -------------------------
+
+#  Saving the  outputs
+
 OUT_NPY   = os.path.join(OUT_DIR, "sticker_features.npy")
 OUT_TAGS  = os.path.join(OUT_DIR, "sticker_tag_vocab.csv")
 OUT_INFO  = os.path.join(OUT_DIR, "sticker_sbert_info.json")
@@ -98,4 +96,5 @@ with open(OUT_INFO, "w", encoding="utf-8") as f:
     }, f, indent=2)
 
 print(f"Saved: {OUT_NPY}")
+
 
