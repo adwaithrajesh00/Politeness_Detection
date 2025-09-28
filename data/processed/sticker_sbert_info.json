@@ -1,0 +1,9 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "input_csv": "data/raw/data.csv",
+  "num_rows": 1108,
+  "embedding_dim": 384,
+  "num_unique_tags": 13,
+  "feature_file": "data/processed\\sticker_features.npy",
+  "tag_vocab_csv": "data/processed\\sticker_tag_vocab.csv"
+}

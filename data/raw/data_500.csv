@@ -1,0 +1,351 @@
+id,text,emojis,sticker_tags,label,split
+1,"If it’s okay, can we move this meeting to tomorrow?",😊,hug,polite,train
+2,"I told you already, just do it.",😡🤬,angry,impolite,train
+3,This is embarrassing.,🤬👎,eyeroll,impolite,train
+4,That’s a terrible suggestion.,💀,thumbsdown,impolite,val
+5,Unbelievable—how can you miss this?,🙄🤣,thumbsdown,impolite,train
+6,I really appreciate your quick response.,😊😊,heart,polite,train
+7,You clearly don’t understand the basics.,👎🎉,eyeroll,impolite,val
+8,It would be great if you could confirm the agenda.,😊,thumbsup,polite,train
+9,Fix the mess you created.,🤬✨,facepalm,impolite,train
+10,Stop wasting my time and fix it.,😒,facepalm,impolite,train
+11,"No worries at all, take your time.",💖👏💖,heart,polite,train
+12,Stop sending me half-baked work.,😡🥵,thumbsdown,impolite,train
+13,Read the instructions properly for once.,🙄,thumbsdown,impolite,train
+14,This is wrong—did you even read the brief?,😒👏,angry,impolite,train
+15,What part of this is hard to get?,😠👏,rage,impolite,train
+16,Why didn’t you send the file yet?,👎😤,rage,impolite,train
+17,Appreciate the clarification—thank you!,👍,smile,polite,val
+18,Your insights were very valuable—thanks!,🤗🙏,thumbsup,polite,test
+19,I’m not your babysitter.,👎,thumbsdown,impolite,val
+20,"Would you mind checking this once more, please?",✨🤣🥰,party,polite,train
+21,Please let me know if I can support in any way.,🤗😂,heart,polite,train
+22,"I don’t care, just finish it.",🙄😤,angry,impolite,test
+23,"Sorry for the delay, I’ll send it now.",😊,clap,polite,train
+24,Stop sending me half-baked work.,🤬😤😡,boo,impolite,train
+25,Your insights were very valuable—thanks!,👍🥵🙌,clap,polite,test
+26,"Mind giving this a quick look, please?",🥰,smile,polite,train
+27,"Sorry for the delay, I’ll send it now.",🙏👏,smile,polite,train
+28,Great job on the report—well done!,😊🙂,ok,polite,test
+29,I really appreciate your quick response.,🙂🥵,heart,polite,train
+30,I’m grateful for your patience with this.,🙂✨✨,hug,polite,test
+31,It would be great if you could confirm the agenda.,😊,ok,polite,train
+32,Thanks for looping me in on this thread.,🙏🎉,clap,polite,train
+33,Are you serious with this draft?,😒😤💀,angry,impolite,test
+34,Fix the mess you created.,🙄🔥,thumbsdown,impolite,train
+35,Could you please share the file when you have a moment?,🙌👏,clap,polite,val
+36,Thanks for looping me in on this thread.,🙂💖,heart,polite,train
+37,Why didn’t you send the file yet?,👎🤣,sad,impolite,train
+38,I’m grateful for your patience with this.,🙌👏🥰,smile,polite,test
+39,Happy to help—just say the word.,🤗🥵,smile,polite,train
+40,Great job on the report—well done!,👍🎉,clap,polite,test
+41,Unbelievable—how can you miss this?,😒🎉,boo,impolite,train
+42,I really appreciate your quick response.,🙌,heart,polite,train
+43,This is wrong—did you even read the brief?,😒🙄,rage,impolite,train
+44,I’m grateful for your patience with this.,🤗,ok,polite,test
+45,Read the instructions properly for once.,😡🔥,rage,impolite,train
+46,Happy to help—just say the word.,🙂,smile,polite,train
+47,Kindly review the attachment and share feedback.,🙌,hug,polite,train
+48,Kindly review the attachment and share feedback.,🙌🤣,ok,polite,train
+49,Why didn’t you send the file yet?,😡,rage,impolite,train
+50,Stop wasting my time and fix it.,😒,rage,impolite,train
+51,You keep making the same mistakes.,😡🥵👎,boo,impolite,test
+52,Thanks for looping me in on this thread.,🙏🙂,thumbsup,polite,train
+53,I’m not your babysitter.,😒🥵😡,facepalm,impolite,val
+54,"Do it now, no excuses.",💀🤯,thumbsdown,impolite,train
+55,That was very thoughtful of you.,💖,smile,polite,train
+56,Appreciate the clarification—thank you!,😊💖,clap,polite,val
+57,Could you please share the file when you have a moment?,😊🥰,thumbsup,polite,val
+58,This is embarrassing.,👎✨,rage,impolite,train
+59,This is embarrassing.,😑😂,angry,impolite,train
+60,I really appreciate your quick response.,😇,party,polite,train
+61,"Do it now, no excuses.",💢👏🤬,angry,impolite,train
+62,Your insights were very valuable—thanks!,🙏🔥,party,polite,test
+63,I’m not your babysitter.,👎,angry,impolite,val
+64,Please let me know if I can support in any way.,👍👏,ok,polite,train
+65,You clearly don’t understand the basics.,👎,boo,impolite,val
+66,Please let me know if I can support in any way.,😇🎉,ok,polite,train
+67,"Would you mind checking this once more, please?",🙌🥵,party,polite,train
+68,Thanks a lot for your help today!,👍🔥✨,clap,polite,train
+69,It would be great if you could confirm the agenda.,🤗,party,polite,train
+70,That was very thoughtful of you.,😊🤣,heart,polite,train
+71,Stop wasting my time and fix it.,😑,facepalm,impolite,train
+72,Your insights were very valuable—thanks!,🙂🙌,smile,polite,test
+73,Fix the mess you created.,👎🤯💀,boo,impolite,train
+74,Kindly review the attachment and share feedback.,😇,hug,polite,train
+75,Could you please share the file when you have a moment?,😊😂,heart,polite,val
+76,"No worries at all, take your time.",🙂👍,hug,polite,train
+77,Thanks a lot for your help today!,🙌,ok,polite,train
+78,"Do it now, no excuses.",💢🤯💀,boo,impolite,train
+79,Stop sending me half-baked work.,🙄🔥,facepalm,impolite,train
+80,Happy to help—just say the word.,🙂,smile,polite,train
+81,Stop sending me half-baked work.,👎,facepalm,impolite,train
+82,Kindly review the attachment and share feedback.,😊🤣🙏,hug,polite,train
+83,Stop wasting my time and fix it.,😑✨,angry,impolite,train
+84,Don’t ping me again until it’s done.,💢😂,angry,impolite,train
+85,"Sorry for the delay, I’ll send it now.",🙏🥵👍,ok,polite,train
+86,Why didn’t you send the file yet?,💀🤯😑,boo,impolite,train
+87,Are you serious with this draft?,💀,eyeroll,impolite,test
+88,"Do it now, no excuses.",👎,rage,impolite,train
+89,That’s a terrible suggestion.,💢😠,eyeroll,impolite,val
+90,"Do it now, no excuses.",🤬🔥😡,rage,impolite,train
+91,Happy to help—just say the word.,💖😤,party,polite,train
+92,You keep making the same mistakes.,😒👏,sad,impolite,test
+93,"Many thanks, the update was super helpful.",👍🔥😇,party,polite,val
+94,Stop wasting my time and fix it.,👎😤,thumbsdown,impolite,train
+95,This is embarrassing.,😡🤯,rage,impolite,train
+96,That was very thoughtful of you.,✨🤣,clap,polite,train
+97,Are you serious with this draft?,😠,boo,impolite,test
+98,Your insights were very valuable—thanks!,💖🤣✨,hug,polite,test
+99,"I told you already, just do it.",😑,eyeroll,impolite,train
+100,Please feel free to suggest improvements.,💖🥵✨,heart,polite,train
+101,Kindly review the attachment and share feedback.,✨,smile,polite,train
+102,Fix the mess you created.,👎🎉,boo,impolite,train
+103,Why didn’t you send the file yet?,🤬,eyeroll,impolite,train
+104,"Mind giving this a quick look, please?",👍😤,ok,polite,train
+105,This is embarrassing.,💀😤,boo,impolite,train
+106,"Mind giving this a quick look, please?",🤗🔥,thumbsup,polite,train
+107,This is wrong—did you even read the brief?,👎,eyeroll,impolite,train
+108,That was very thoughtful of you.,💖😤🙌,clap,polite,train
+109,Please feel free to suggest improvements.,🤗🤯✨,clap,polite,train
+110,"Many thanks, the update was super helpful.",✨🤯🙂,clap,polite,val
+111,It’s not my job to explain this again.,😡😂👎,rage,impolite,train
+112,"This is useless, start over.",💀💀,facepalm,impolite,test
+113,"No worries at all, take your time.",😇,clap,polite,train
+114,You keep making the same mistakes.,👎🤣,rage,impolite,test
+115,It’s not my job to explain this again.,🤬✨😡,rage,impolite,train
+116,Stop sending me half-baked work.,💀,thumbsdown,impolite,train
+117,"No worries at all, take your time.",✨🤣,smile,polite,train
+118,Read the instructions properly for once.,💀🤯,sad,impolite,train
+119,Don’t ping me again until it’s done.,😒😂,sad,impolite,train
+120,Could you please share the file when you have a moment?,💖😂🙌,clap,polite,val
+121,"Would you mind checking this once more, please?",🙌🥵,clap,polite,train
+122,Unbelievable—how can you miss this?,💢🔥,thumbsdown,impolite,train
+123,Don’t ping me again until it’s done.,🤬🥵💀,boo,impolite,train
+124,Read the instructions properly for once.,💀✨,eyeroll,impolite,train
+125,I’m grateful for your patience with this.,💖,clap,polite,test
+126,"Do it now, no excuses.",💢🤣😑,thumbsdown,impolite,train
+127,"This is useless, start over.",🙄,facepalm,impolite,test
+128,Please let me know if I can support in any way.,👍✨🤗,smile,polite,train
+129,Kindly review the attachment and share feedback.,😊🙏,clap,polite,train
+130,"I don’t care, just finish it.",😠👏,facepalm,impolite,test
+131,"I don’t care, just finish it.",🤬✨,rage,impolite,test
+132,Stop wasting my time and fix it.,😒🎉,sad,impolite,train
+133,This is embarrassing.,💀😂,eyeroll,impolite,train
+134,Happy to help—just say the word.,💖,ok,polite,train
+135,This is wrong—did you even read the brief?,🤬👏😠,angry,impolite,train
+136,Happy to help—just say the word.,😇😤,clap,polite,train
+137,This is embarrassing.,👎🤣😡,rage,impolite,train
+138,Are you serious with this draft?,😒🥵,angry,impolite,test
+139,Please let me know if I can support in any way.,🤗🥰,smile,polite,train
+140,This is wrong—did you even read the brief?,😡🤣,sad,impolite,train
+141,Thanks a lot for your help today!,🤗,hug,polite,train
+142,"I don’t care, just finish it.",💀🥵,angry,impolite,test
+143,Kindly review the attachment and share feedback.,🙌😇,hug,polite,train
+144,You keep making the same mistakes.,👎,rage,impolite,test
+145,Appreciate the clarification—thank you!,🙏🥵💖,smile,polite,val
+146,"Many thanks, the update was super helpful.",🙌😤,heart,polite,val
+147,Happy to help—just say the word.,🙌😊,clap,polite,train
+148,That was very thoughtful of you.,🙂🔥,thumbsup,polite,train
+149,"I told you already, just do it.",😡🤯,eyeroll,impolite,train
+150,It’s not my job to explain this again.,💀🤯,facepalm,impolite,train
+151,This is wrong—did you even read the brief?,😑✨,boo,impolite,train
+152,"If it’s okay, can we move this meeting to tomorrow?",🥰😂,clap,polite,train
+153,Stop sending me half-baked work.,💢🥵,boo,impolite,train
+154,This is embarrassing.,💀🤯😒,thumbsdown,impolite,train
+155,I really appreciate your quick response.,🙌🤣,party,polite,train
+156,You keep making the same mistakes.,👎,rage,impolite,test
+157,Appreciate the clarification—thank you!,✨,ok,polite,val
+158,Your insights were very valuable—thanks!,😊😤,hug,polite,test
+159,"Sorry for the delay, I’ll send it now.",😊👏,heart,polite,train
+160,Thanks for looping me in on this thread.,✨🎉,heart,polite,train
+161,Appreciate the clarification—thank you!,🥰😂,clap,polite,val
+162,That’s a terrible suggestion.,👎😂,eyeroll,impolite,val
+163,Unbelievable—how can you miss this?,😑👏,thumbsdown,impolite,train
+164,What part of this is hard to get?,👎,angry,impolite,train
+165,This is wrong—did you even read the brief?,😑🎉,rage,impolite,train
+166,Please let me know if I can support in any way.,👍😤🙏,party,polite,train
+167,Stop sending me half-baked work.,🤬,eyeroll,impolite,train
+168,"I told you already, just do it.",😠✨😠,thumbsdown,impolite,train
+169,This is wrong—did you even read the brief?,😒✨😠,eyeroll,impolite,train
+170,Thanks a lot for your help today!,🙂🙂,thumbsup,polite,train
+171,Why didn’t you send the file yet?,💀😂,angry,impolite,train
+172,Kindly review the attachment and share feedback.,😊🙌,hug,polite,train
+173,Why didn’t you send the file yet?,😠,sad,impolite,train
+174,Unbelievable—how can you miss this?,👎✨,eyeroll,impolite,train
+175,This is wrong—did you even read the brief?,😠,rage,impolite,train
+176,"No worries at all, take your time.",🙏,clap,polite,train
+177,Stop wasting my time and fix it.,💀💢,facepalm,impolite,train
+178,"Many thanks, the update was super helpful.",👍🙏,hug,polite,val
+179,This is wrong—did you even read the brief?,😑🥵👎,sad,impolite,train
+180,Read the instructions properly for once.,😑✨,facepalm,impolite,train
+181,"I told you already, just do it.",🙄,rage,impolite,train
+182,"Mind giving this a quick look, please?",🙏👏,hug,polite,train
+183,"Would you mind checking this once more, please?",😊✨🤗,hug,polite,train
+184,"Sorry for the delay, I’ll send it now.",👍🙏,ok,polite,train
+185,Appreciate the clarification—thank you!,✨,ok,polite,val
+186,"Do it now, no excuses.",😠👏😠,angry,impolite,train
+187,That was very thoughtful of you.,😊🤣👍,smile,polite,train
+188,"No worries at all, take your time.",✨😇,hug,polite,train
+189,"This is useless, start over.",💢🤬,boo,impolite,test
+190,"Do it now, no excuses.",💀,sad,impolite,train
+191,"Would you mind checking this once more, please?",😊🤣,thumbsup,polite,train
+192,Please feel free to suggest improvements.,😊🤯,clap,polite,train
+193,What part of this is hard to get?,👎✨,sad,impolite,train
+194,"I told you already, just do it.",😑😤,thumbsdown,impolite,train
+195,That’s a terrible suggestion.,💀😂💀,sad,impolite,val
+196,"Many thanks, the update was super helpful.",😇😊,thumbsup,polite,val
+197,"This is useless, start over.",🤬😤🤬,facepalm,impolite,test
+198,Are you serious with this draft?,😑😤,facepalm,impolite,test
+199,It’s not my job to explain this again.,💀👏,facepalm,impolite,train
+200,Thanks for looping me in on this thread.,🥰🤣,party,polite,train
+201,Stop wasting my time and fix it.,😡🥵,facepalm,impolite,train
+202,Your insights were very valuable—thanks!,🙂,smile,polite,test
+203,Unbelievable—how can you miss this?,😑,thumbsdown,impolite,train
+204,That’s a terrible suggestion.,💀👏😡,boo,impolite,val
+205,"Many thanks, the update was super helpful.",✨,thumbsup,polite,val
+206,Thanks for looping me in on this thread.,🤗🥵,clap,polite,train
+207,Thanks a lot for your help today!,✨,thumbsup,polite,train
+208,Please let me know if I can support in any way.,🤗🎉,heart,polite,train
+209,That’s a terrible suggestion.,😑✨,angry,impolite,val
+210,"Would you mind checking this once more, please?",👍🥵,clap,polite,train
+211,Happy to help—just say the word.,🥰🤣,ok,polite,train
+212,Could you please share the file when you have a moment?,🥰👏,thumbsup,polite,val
+213,This is embarrassing.,😒🥵,eyeroll,impolite,train
+214,Read the instructions properly for once.,😒🥵,boo,impolite,train
+215,Unbelievable—how can you miss this?,👎,rage,impolite,train
+216,You keep making the same mistakes.,🤬,eyeroll,impolite,test
+217,You keep making the same mistakes.,🙄,facepalm,impolite,test
+218,It would be great if you could confirm the agenda.,😇✨,thumbsup,polite,train
+219,I really appreciate your quick response.,🙂🔥,party,polite,train
+220,I’m grateful for your patience with this.,🙂😂,heart,polite,test
+221,I’m grateful for your patience with this.,😊🎉,party,polite,test
+222,What part of this is hard to get?,😒🤣,eyeroll,impolite,train
+223,"This is useless, start over.",😡🔥,thumbsdown,impolite,test
+224,Stop sending me half-baked work.,😠,rage,impolite,train
+225,I really appreciate your quick response.,🥰✨,thumbsup,polite,train
+226,"If it’s okay, can we move this meeting to tomorrow?",👍🙌,thumbsup,polite,train
+227,"No worries at all, take your time.",👍🥵,ok,polite,train
+228,Stop wasting my time and fix it.,💀😑,rage,impolite,train
+229,"I told you already, just do it.",👎🎉,angry,impolite,train
+230,Are you serious with this draft?,😒👏,sad,impolite,test
+231,You clearly don’t understand the basics.,💀😤,rage,impolite,val
+232,Kindly review the attachment and share feedback.,👍👏,smile,polite,train
+233,"I told you already, just do it.",🙄,angry,impolite,train
+234,Please feel free to suggest improvements.,🥰👍,clap,polite,train
+235,I’m not your babysitter.,💀👏😡,sad,impolite,val
+236,"I told you already, just do it.",😒🥵,angry,impolite,train
+237,Stop wasting my time and fix it.,💀🥵,thumbsdown,impolite,train
+238,Great job on the report—well done!,🙏✨,clap,polite,test
+239,Why didn’t you send the file yet?,💢🎉,eyeroll,impolite,train
+240,Thanks for looping me in on this thread.,🤗,party,polite,train
+241,Appreciate the clarification—thank you!,🤗🤗,smile,polite,val
+242,Please let me know if I can support in any way.,🙌🤣,heart,polite,train
+243,"Sorry for the delay, I’ll send it now.",👍🔥,ok,polite,train
+244,You clearly don’t understand the basics.,😒,rage,impolite,val
+245,I’m grateful for your patience with this.,😊,thumbsup,polite,test
+246,"Many thanks, the update was super helpful.",👍✨,smile,polite,val
+247,This is embarrassing.,😑💢,thumbsdown,impolite,train
+248,"No worries at all, take your time.",💖,ok,polite,train
+249,You keep making the same mistakes.,🙄🎉😒,facepalm,impolite,test
+250,Fix the mess you created.,😒🎉,boo,impolite,train
+251,That’s a terrible suggestion.,🤬🎉,sad,impolite,val
+252,I really appreciate your quick response.,🥰🙂,smile,polite,train
+253,Thanks for looping me in on this thread.,🙏✨🙏,thumbsup,polite,train
+254,Stop sending me half-baked work.,😠,angry,impolite,train
+255,"I told you already, just do it.",💢🤯😑,thumbsdown,impolite,train
+256,Could you please share the file when you have a moment?,🤗🙏,heart,polite,val
+257,"Sorry for the delay, I’ll send it now.",🤗,hug,polite,train
+258,"Mind giving this a quick look, please?",✨👏😊,hug,polite,train
+259,"Would you mind checking this once more, please?",💖,hug,polite,train
+260,I’m grateful for your patience with this.,✨,ok,polite,test
+261,Appreciate the clarification—thank you!,👍✨,hug,polite,val
+262,"Mind giving this a quick look, please?",🤗😊,thumbsup,polite,train
+263,"If it’s okay, can we move this meeting to tomorrow?",🤗✨,ok,polite,train
+264,Fix the mess you created.,💢✨,sad,impolite,train
+265,Great job on the report—well done!,🙏✨,party,polite,test
+266,Unbelievable—how can you miss this?,🤬🔥,facepalm,impolite,train
+267,Are you serious with this draft?,👎,boo,impolite,test
+268,What part of this is hard to get?,😡🔥,rage,impolite,train
+269,Stop wasting my time and fix it.,🙄🙄,boo,impolite,train
+270,Kindly review the attachment and share feedback.,😊,thumbsup,polite,train
+271,That’s a terrible suggestion.,🤬,thumbsdown,impolite,val
+272,"Mind giving this a quick look, please?",🥰,hug,polite,train
+273,Read the instructions properly for once.,👎,eyeroll,impolite,train
+274,That’s a terrible suggestion.,🙄🤯,boo,impolite,val
+275,Read the instructions properly for once.,💀🤯👎,rage,impolite,train
+276,Thanks a lot for your help today!,😇😂,hug,polite,train
+277,Your insights were very valuable—thanks!,✨,smile,polite,test
+278,It’s not my job to explain this again.,😠,eyeroll,impolite,train
+279,Stop wasting my time and fix it.,😡😤😡,rage,impolite,train
+280,That was very thoughtful of you.,✨,smile,polite,train
+281,It would be great if you could confirm the agenda.,😇,ok,polite,train
+282,Kindly review the attachment and share feedback.,🤗🔥✨,smile,polite,train
+283,This is wrong—did you even read the brief?,💢,facepalm,impolite,train
+284,Happy to help—just say the word.,🥰,hug,polite,train
+285,"Do it now, no excuses.",😠🔥,thumbsdown,impolite,train
+286,It’s not my job to explain this again.,😡🥵💢,boo,impolite,train
+287,I really appreciate your quick response.,🤗😤,party,polite,train
+288,"Many thanks, the update was super helpful.",🤗,thumbsup,polite,val
+289,Happy to help—just say the word.,👍,clap,polite,train
+290,Kindly review the attachment and share feedback.,👍😤😊,clap,polite,train
+291,"This is useless, start over.",💢,sad,impolite,test
+292,Please let me know if I can support in any way.,✨😂,thumbsup,polite,train
+293,It would be great if you could confirm the agenda.,👍,clap,polite,train
+294,Thanks for looping me in on this thread.,💖,ok,polite,train
+295,Appreciate the clarification—thank you!,🙂😂✨,ok,polite,val
+296,That’s a terrible suggestion.,💢,boo,impolite,val
+297,"No worries at all, take your time.",💖👏,smile,polite,train
+298,That’s a terrible suggestion.,💢🔥💢,sad,impolite,val
+299,Are you serious with this draft?,💀🤬,boo,impolite,test
+300,"I don’t care, just finish it.",💀🎉,facepalm,impolite,test
+301,"Sorry for the delay, I’ll send it now.",🤗✨,clap,polite,train
+302,Your insights were very valuable—thanks!,🙂😤,clap,polite,test
+303,"Would you mind checking this once more, please?",🤗,party,polite,train
+304,I’m grateful for your patience with this.,✨,party,polite,test
+305,"If it’s okay, can we move this meeting to tomorrow?",🥰🤯,clap,polite,train
+306,"Do it now, no excuses.",🤬🥵😡,thumbsdown,impolite,train
+307,Stop sending me half-baked work.,🤬😂,eyeroll,impolite,train
+308,Appreciate the clarification—thank you!,🙂😂🙌,thumbsup,polite,val
+309,That’s a terrible suggestion.,😒,sad,impolite,val
+310,I’m not your babysitter.,😒🔥,angry,impolite,val
+311,"This is useless, start over.",💢,thumbsdown,impolite,test
+312,"No worries at all, take your time.",✨😂,ok,polite,train
+313,What part of this is hard to get?,🙄👏,sad,impolite,train
+314,Don’t ping me again until it’s done.,😑,eyeroll,impolite,train
+315,"I don’t care, just finish it.",😑,angry,impolite,test
+316,Unbelievable—how can you miss this?,💢🎉,facepalm,impolite,train
+317,Happy to help—just say the word.,🙌🎉✨,hug,polite,train
+318,I really appreciate your quick response.,🤗👍,hug,polite,train
+319,"No worries at all, take your time.",🤗,thumbsup,polite,train
+320,I’m not your babysitter.,😡😒,eyeroll,impolite,val
+321,"No worries at all, take your time.",🥰,thumbsup,polite,train
+322,"No worries at all, take your time.",😇🔥,heart,polite,train
+323,Fix the mess you created.,😒,facepalm,impolite,train
+324,I really appreciate your quick response.,🙏,clap,polite,train
+325,Unbelievable—how can you miss this?,😒,angry,impolite,train
+326,Your insights were very valuable—thanks!,🤗😂,party,polite,test
+327,Thanks a lot for your help today!,👍🙏,heart,polite,train
+328,You keep making the same mistakes.,😑🤯,eyeroll,impolite,test
+329,"Sorry for the delay, I’ll send it now.",🤗🤣,smile,polite,train
+330,"If it’s okay, can we move this meeting to tomorrow?",🙌✨,thumbsup,polite,train
+331,"Do it now, no excuses.",🙄,thumbsdown,impolite,train
+332,Stop sending me half-baked work.,😑🥵,angry,impolite,train
+333,Are you serious with this draft?,👎,boo,impolite,test
+334,Your insights were very valuable—thanks!,😊🤯,smile,polite,test
+335,This is embarrassing.,💀,sad,impolite,train
+336,Don’t ping me again until it’s done.,👎,boo,impolite,train
+337,"Mind giving this a quick look, please?",🤗🤯,thumbsup,polite,train
+338,That’s a terrible suggestion.,😑🥵,thumbsdown,impolite,val
+339,I’m not your babysitter.,😡👏😠,angry,impolite,val
+340,It would be great if you could confirm the agenda.,🙌,hug,polite,train
+341,You clearly don’t understand the basics.,👎👏,boo,impolite,val
+342,"Sorry for the delay, I’ll send it now.",🤗,party,polite,train
+343,Thanks a lot for your help today!,💖🔥,smile,polite,train
+344,Don’t ping me again until it’s done.,😠,boo,impolite,train
+345,Please let me know if I can support in any way.,👍,party,polite,train
+346,I really appreciate your quick response.,✨,ok,polite,train
+347,"Many thanks, the update was super helpful.",✨,thumbsup,polite,val
+348,I really appreciate your quick response.,😇✨🙂,hug,polite,train
+349,Fix the mess you created.,💢🤣,sad,impolite,train
+350,Why didn’t you send the file yet?,🤬🤯,rage,impolite,train
