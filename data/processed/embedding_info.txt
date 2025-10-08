@@ -1,0 +1,3 @@
+model=sentence-transformers/all-MiniLM-L6-v2
+num_rows=1108
+vector_dim=384

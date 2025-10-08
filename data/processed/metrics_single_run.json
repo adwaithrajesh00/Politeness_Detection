@@ -1,0 +1,15 @@
+{
+  "feature_file": "data/processed/sticker_features.npy",
+  "accuracy": 0.7066666666666667,
+  "classification_report": "              precision    recall  f1-score   support\n\n impolite(0)     0.9429    0.4400    0.6000        75\n   polite(1)     0.6348    0.9733    0.7684        75\n\n    accuracy                         0.7067       150\n   macro avg     0.7888    0.7067    0.6842       150\nweighted avg     0.7888    0.7067    0.6842       150\n",
+  "confusion_matrix": [
+    [
+      33,
+      42
+    ],
+    [
+      2,
+      73
+    ]
+  ]
+}
